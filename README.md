@@ -25,11 +25,11 @@ Chaque sujet et sa correction sont accessibles via les liens ci-dessous :
 - [Sujet 13](sujets/sujet13/): ✅
 - [Sujet 14](sujets/sujet14/): ✅
 - [Sujet 15](sujets/sujet15/): ✅
-- [Sujet 16](sujets/sujet16/): ❌
-- [Sujet 17](sujets/sujet17/): ❌
-- [Sujet 18](sujets/sujet18/): ❌
-- [Sujet 19](sujets/sujet19/): ❌
-- [Sujet 20](sujets/sujet20/): ❌
+- [Sujet 16](sujets/sujet16/): ✅
+- [Sujet 17](sujets/sujet17/): ✅
+- [Sujet 18](sujets/sujet18/): ✅
+- [Sujet 19](sujets/sujet19/): ✅
+- [Sujet 20](sujets/sujet20/): ✅
 - [Sujet 21](sujets/sujet21/): ❌
 - [Sujet 22](sujets/sujet22/): ❌
 - [Sujet 23](sujets/sujet23/): ❌
