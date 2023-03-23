@@ -4,11 +4,9 @@ Ce répertoire contient les corrections des sujets d'épreuve pratique de NSI po
 
 ## Sujets
 
-Les sujets de l'épreuve sont disponibles dans le répertoire `sujets/sujet{n° du sujet}`, contenant un fichier `sujet{n° du sujet}.pdf`. Les corrections correspondantes sont également fournies avec le sujet, dans un fichier Jupyter Notebook distinct nommé `sujets/{n° du sujet}/correction{n° du sujet}.pdf`.
+Les sujets de l'épreuve sont disponibles dans le répertoire `sujets/sujet{n° du sujet}`, contenant un fichier `sujet{n° du sujet}.pdf`. Les corrections correspondantes sont également fournies avec le sujet, dans un fichier Jupyter Notebook distinct nommé `correction{n° du sujet}.pdf`.
 
-Les fichiers des sujets ont été nommés `sujet{n°}.pdf` et les corrections `correction{n°}.ipynb`, où `{n°}` est le numéro du sujet allant de 1 à 45.
-
-## Fichiers Jupyter Notebook
+## Liens
 
 Chaque sujet et sa correction sont accessibles via les liens ci-dessous :
 
@@ -22,11 +20,11 @@ Chaque sujet et sa correction sont accessibles via les liens ci-dessous :
 - [Sujet 8](sujets/sujet8/): ✅
 - [Sujet 9](sujets/sujet9/): ✅
 - [Sujet 10](sujets/sujet10/): ✅
-- [Sujet 11](sujets/sujet11/): ❌
-- [Sujet 12](sujets/sujet12/): ❌
-- [Sujet 13](sujets/sujet13/): ❌
-- [Sujet 14](sujets/sujet14/): ❌
-- [Sujet 15](sujets/sujet15/): ❌
+- [Sujet 11](sujets/sujet11/): ✅
+- [Sujet 12](sujets/sujet12/): ✅
+- [Sujet 13](sujets/sujet13/): ✅
+- [Sujet 14](sujets/sujet14/): ✅
+- [Sujet 15](sujets/sujet15/): ✅
 - [Sujet 16](sujets/sujet16/): ❌
 - [Sujet 17](sujets/sujet17/): ❌
 - [Sujet 18](sujets/sujet18/): ❌
