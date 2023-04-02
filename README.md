@@ -30,10 +30,10 @@ Chaque sujet et sa correction sont accessibles via les liens ci-dessous :
 - [Sujet 18](sujets/sujet18/): ✅
 - [Sujet 19](sujets/sujet19/): ✅
 - [Sujet 20](sujets/sujet20/): ✅
-- [Sujet 21](sujets/sujet21/): ❌
-- [Sujet 22](sujets/sujet22/): ❌
-- [Sujet 23](sujets/sujet23/): ❌
-- [Sujet 24](sujets/sujet24/): ❌
+- [Sujet 21](sujets/sujet21/): ✅
+- [Sujet 22](sujets/sujet22/): ✅
+- [Sujet 23](sujets/sujet23/): ✅
+- [Sujet 24](sujets/sujet24/): ✅
 - [Sujet 25](sujets/sujet25/): ❌
 - [Sujet 26](sujets/sujet26/): ❌
 - [Sujet 27](sujets/sujet27/): ❌
